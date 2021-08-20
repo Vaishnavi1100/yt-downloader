@@ -1,4 +1,4 @@
-# yt-downloader
+# YT-Downloader
 Made with Python + youtube_dl
 
 ## Helping resources:
