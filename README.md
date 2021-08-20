@@ -1,5 +1,5 @@
 # yt-downloader
-Made with python yt-dl
+Made with Python + youtube_dl
 
 ## Helping resources:
 ### 
